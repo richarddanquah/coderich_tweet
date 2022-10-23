@@ -1,6 +1,6 @@
 # CoderichTweet
 
-**TODO: Add description**
+**Description: An Elixir App that allows user to send tweet to his twitter handle using elixir quantum and extwitter**
 
 ## Installation
 
